@@ -1,5 +1,18 @@
 # vue-cms
 
+测试账号: test2@135editor.com 密码:123123
+
+
+https://github.com/iview/iview
+
+https://github.com/iview/iview-admin
+
+https://www.iviewui.com/components/alert
+
+https://lison16.github.io/iview-admin-doc/#/
+
+
+
 > A Vue.js project
 
 ## Build Setup
